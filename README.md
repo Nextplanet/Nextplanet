@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🤔 Yes, not done yet...
+Will write something in 2025 
 <!--
 **Nextplanet/Nextplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
