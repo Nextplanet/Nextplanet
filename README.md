@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-🤔 Yes, not done yet...
-Will write something in 2025 
+🌱 I’m currently learning
+  a. Vue
+  b. Nuxt
+  c. Docker
+  e. Proxmox
+  f. Rust
+
+⚡ Fun fact:
+  Debugging with AI is faster, but always checking those answers is crucial
+  
 <!--
 **Nextplanet/Nextplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
